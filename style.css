@@ -145,9 +145,11 @@ html {
   width: 16.25rem;
   height: 31.625rem;
 }
+
 .side-bar-menu .header {
   padding-left: 2.5rem;
-  margin-bottom: 2.875rem;
+  margin-bottom: 1.875rem;
+  
 }
 .side-bar-menu .username {
   text-transform: capitalize;
